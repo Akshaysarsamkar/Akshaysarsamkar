@@ -1,191 +1,224 @@
-# <h1 align="center">Hi 👋, I'm Akshay Sarsamkar</h1>
+<div align="center">
 
-<h3 align="center">
-Frontend Developer • Angular • React • TypeScript
-</h3>
+# Hi 👋, I'm Akshay Sarsamkar
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=800&color=0EA5E9&center=true&vCenter=true&width=700&lines=Frontend+Developer;Angular+Developer;React+Developer;Building+Scalable+UI;Always+Learning+New+Technologies" />
-</p>
+### Frontend Developer | Angular | React | TypeScript | JavaScript
 
-<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=900&color=0EA5E9&center=true&vCenter=true&width=700&lines=Frontend+Developer;Angular+Developer;React+Developer;Building+Scalable+Applications;Clean+Code+%7C+Reusable+Components;Always+Learning+New+Technologies"/>
+
+<p>
 <img src="https://komarev.com/ghpvc/?username=Akshaysarsamkar&label=Profile+Views&color=0e75b6&style=flat"/>
 <img src="https://img.shields.io/github/followers/Akshaysarsamkar?style=social"/>
 <img src="https://img.shields.io/github/stars/Akshaysarsamkar?style=social"/>
 </p>
 
+</div>
+
 ---
 
 # 💫 About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🎯 Frontend Developer passionate about building modern and responsive web applications.
+🎯 Passionate **Frontend Developer** focused on building modern, scalable, and responsive web applications.
 
-💼 Experienced with enterprise applications using Angular and React.
+💼 Experienced in developing enterprise-level applications using **Angular**, **React**, and **TypeScript**.
 
-⚡ Strong understanding of:
+💡 I enjoy creating reusable components, improving UI/UX, and writing clean, maintainable code.
 
-- Angular
-- React
-- TypeScript
-- JavaScript
-- HTML5
-- SCSS
-- RxJS
-- REST APIs
-- Angular Material
-- AG Grid
+### 🚀 What I Do
 
-🚀 I enjoy creating reusable UI components, scalable architectures, and clean user experiences.
-
-🌱 Currently learning
-
-- Advanced Angular
-- React Native
-- Performance Optimization
-- Enterprise Architecture
-
-📫 Email
-
-**sarsamkarakshay@gmail.com**
+- 🔹 Build responsive web applications
+- 🔹 Develop reusable UI components
+- 🔹 Create enterprise dashboards
+- 🔹 Integrate REST APIs
+- 🔹 Optimize application performance
+- 🔹 Convert Figma designs into pixel-perfect interfaces
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,sass,bootstrap,git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,sass,bootstrap,git,github,vscode,postman,figma" />
 
-</p>
+</div>
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akshaysarsamkar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akshaysarsamkar&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshaysarsamkar&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Akshaysarsamkar&theme=transparent&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 💻 Most Used Languages
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaysarsamkar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaysarsamkar&layout=compact&theme=transparent&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Akshaysarsamkar&theme=tokyonight&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Akshaysarsamkar&theme=flat&no-frame=true&margin-w=15"/>
 
-</p>
+</div>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshaysarsamkar&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshaysarsamkar&theme=github-light"/>
 
-</p>
+</div>
 
 ---
 
 # 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Akshaysarsamkar/Akshaysarsamkar/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Akshaysarsamkar/Akshaysarsamkar/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 
-</p>
+</div>
 
 ---
 
 # 🚀 Current Focus
 
-✔ Building Enterprise Angular Applications
-
-✔ Reusable UI Components
-
-✔ Signals & RxJS
-
-✔ AG Grid
-
-✔ Angular Material
-
-✔ React + TypeScript
-
-✔ Responsive Design
-
-✔ REST API Integration
+- 🚀 Enterprise Angular Applications
+- ⚡ Angular Standalone Components
+- 🎯 Angular Signals & RxJS
+- 📊 AG Grid
+- 🎨 Angular Material
+- 🌐 REST API Integration
+- 📱 React & TypeScript
+- 📲 Learning React Native
 
 ---
 
 # 🌟 Featured Skills
 
-| Frontend | Tools | Others |
-|----------|------|--------|
-| Angular | Git | REST API |
-| React | GitHub | RxJS |
-| TypeScript | VS Code | Angular Material |
-| JavaScript | Postman | AG Grid |
-| HTML5 | npm | Responsive UI |
-| SCSS | Figma | Standalone Components |
+| Frontend | UI Libraries | Tools |
+|-----------|--------------|-------|
+| Angular | Angular Material | Git |
+| React | AG Grid | GitHub |
+| TypeScript | Bootstrap | VS Code |
+| JavaScript | SCSS | Postman |
+| HTML5 | Responsive UI | Figma |
+| CSS3 | Standalone Components | npm |
 
 ---
 
-# 💡 Fun Facts
+# 🚀 Featured Projects
 
-✨ I enjoy turning complex UI designs into clean, reusable components.
+### 📁 Enterprise Angular Dashboard
 
-🚀 I believe consistency beats intensity—writing better code every day matters more than writing a lot at once.
-
-🎯 My favorite part of development is solving UI challenges and improving user experience.
-
-☕ Coffee, music, and a clean code editor are my ideal productivity setup.
-
-🌙 Late-night debugging often leads to my best solutions.
+Reusable enterprise dashboard with Angular, Signals, AG Grid and REST APIs.
 
 ---
 
-# 🌐 Connect with Me
+### 📱 Expense Tracker App
 
-<p align="center">
+React Native application for managing daily expenses.
+
+---
+
+### 🎨 Reusable UI Component Library
+
+Enterprise-level reusable Angular components with modern design.
+
+---
+
+### 📊 Project Management Dashboard
+
+Responsive Angular dashboard with filtering, sorting and analytics.
+
+---
+
+# 💪 Skills
+
+```text
+Angular            ████████████████████ 95%
+
+React              ██████████████████░ 90%
+
+TypeScript         ███████████████████ 92%
+
+JavaScript         ███████████████████ 92%
+
+SCSS               █████████████████░░ 88%
+
+Angular Material   █████████████████░░ 88%
+
+AG Grid            ████████████████░░░ 82%
+
+REST APIs          ██████████████████░ 90%
+```
+
+---
+
+# ☕ Beyond Coding
+
+✨ I enjoy transforming complex UI designs into clean, intuitive user experiences.
+
+🚀 Building reusable components that improve development productivity is one of my favorite challenges.
+
+🎯 I believe great frontend development combines clean code, performance, and thoughtful design.
+
+🎧 My coding sessions are usually powered by coffee, music, and curiosity.
+
+🌱 I'm always exploring new technologies to grow as a developer.
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
 
 <a href="mailto:sarsamkarakshay@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Akshaysarsamkar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- Replace with your LinkedIn -->
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<h3 align="center">
+<div align="center">
 
-⭐ Thanks for visiting my profile! ⭐
+## 💬 Favorite Quote
 
-"Great software is built one thoughtful commit at a time."
+> **"Great software is built one thoughtful commit at a time."**
 
-</h3>
+---
+
+### ⭐ Thanks for visiting my profile!
+
+### Let's build something amazing together 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=140&section=footer"/>
+
+</div>
