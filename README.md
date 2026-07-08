@@ -134,18 +134,6 @@ I enjoy turning complex UI into simple, reusable and maintainable components.
 
 ---
 
-# 🐍 Contribution Snake
-
-> **Note:** This animation requires a GitHub Action (`snake.yml`) to generate automatically.
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Akshaysarsamkar/Akshaysarsamkar/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-
-</div>
-
----
-
 # ⚡ GitHub Highlights
 
 <div align="center">
