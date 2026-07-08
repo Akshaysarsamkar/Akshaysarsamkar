@@ -1,136 +1,191 @@
-<!--
-  GITHUB PROFILE README
-  ======================
-  HOW TO USE THIS FILE:
-  1. Create a new GitHub repo with EXACTLY your username as the repo name
-     (e.g. if your username is "johndoe", repo must be named "johndoe").
-     GitHub will show a "Add a README" prompt automatically once you do this —
-     that confirms it's a special "profile README" repo.
-  2. Make the repo PUBLIC.
-  3. Replace this file's content with the content below (rename to README.md).
-  4. Find/replace every Akshaysarsamkar, Akshay Sarsamkar, YOUR_LINKEDIN, etc.
-     placeholder with your real info.
-  5. Commit — it will instantly appear on https://github.com/Akshaysarsamkar
--->
+# <h1 align="center">Hi 👋, I'm Akshay Sarsamkar</h1>
 
-<h1 align="center">Hi 👋🏻, I'm Akshay Sarsamkar</h1>
-<h3 align="center">UI Developer | Angular | React | TypeScript | JavaScript</h3>
-
-<p align="center">I build clean, scalable, and user-friendly web applications using modern frontend technologies.</p>
+<h3 align="center">
+Frontend Developer • Angular • React • TypeScript
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akshaysarsamkar&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 💼 UI Developer with strong experience in **Angular, React, TypeScript, JavaScript, HTML, and SCSS**
-- 🚀 Working with **Standalone Components, Signals, RxJS, Services, and REST API integration**
-- 🌐 Interested in building clean UI, reusable components, dashboards, tables, and enterprise-level frontend features
-- 🧩 Comfortable across both **Angular** and **React** ecosystems
-- 🛠️ Experienced with **Git, GitHub, VS Code, Postman, Angular Material, and AG Grid**
-- 📌 Focused on writing clean, readable, maintainable, and production-ready code
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,sass,git,github,vscode" alt="tech icons" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/RXJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
-  <img src="https://img.shields.io/badge/ANGULAR%20MATERIAL-757575?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/AG%20GRID-1F2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
----
-
-### 🚀 Currently
-
-- 🔭 Building enterprise-grade dashboards and data tables with **Angular Signals + AG Grid**
-- 🌱 Sharpening my **React + TypeScript** skills alongside my Angular work
-- 🎯 Focused on turning designs into pixel-perfect, responsive, reusable components
-- 🤝 Open to freelance/collaboration on frontend and UI projects
-- 📫 Reach me at: YOUR_EMAIL@gmail.com
-
----
-
-### 🎈 Fun Fact
-
-- ⚡ I can usually tell Angular vs React code apart in under 2 seconds
-- 🎨 I care as much about pixel-perfect UI as I do about clean logic
-- ☕ Most of my best bug fixes happen after a coffee refill
-- 🌙 Half of my commits are late-night "just one more fix" sessions
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshaysarsamkar&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshaysarsamkar&theme=radical" alt="GitHub Streak" height="165"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=800&color=0EA5E9&center=true&vCenter=true&width=700&lines=Frontend+Developer;Angular+Developer;React+Developer;Building+Scalable+UI;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaysarsamkar&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://komarev.com/ghpvc/?username=Akshaysarsamkar&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://img.shields.io/github/followers/Akshaysarsamkar?style=social"/>
+<img src="https://img.shields.io/github/stars/Akshaysarsamkar?style=social"/>
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+# 💫 About Me
+
+<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+🎯 Frontend Developer passionate about building modern and responsive web applications.
+
+💼 Experienced with enterprise applications using Angular and React.
+
+⚡ Strong understanding of:
+
+- Angular
+- React
+- TypeScript
+- JavaScript
+- HTML5
+- SCSS
+- RxJS
+- REST APIs
+- Angular Material
+- AG Grid
+
+🚀 I enjoy creating reusable UI components, scalable architectures, and clean user experiences.
+
+🌱 Currently learning
+
+- Advanced Angular
+- React Native
+- Performance Optimization
+- Enterprise Architecture
+
+📫 Email
+
+**sarsamkarakshay@gmail.com**
+
+---
+
+# 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akshaysarsamkar/Akshaysarsamkar/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
 
-> ⚠️ The snake image is generated by a GitHub Action, not a static badge. Setup steps are below.
+<img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,sass,bootstrap,git,github,vscode,postman"/>
 
----
-
-### 🌍 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sarsamkarakshay@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Akshaysarsamkar" target="https://github.com/Akshaysarsamkar/Akshaysarsamkar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-### 🙏 Dev Quote
+# 📈 GitHub Stats
 
-> "A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed."
-> — Daniel T. Barry
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akshaysarsamkar&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshaysarsamkar&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-### 💰 Support
+# 💻 Most Used Languages
 
-<a href="https://www.buymeacoffee.com/Akshaysarsamkar" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaysarsamkar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Akshaysarsamkar&theme=tokyonight&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshaysarsamkar&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Akshaysarsamkar/Akshaysarsamkar/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🚀 Current Focus
+
+✔ Building Enterprise Angular Applications
+
+✔ Reusable UI Components
+
+✔ Signals & RxJS
+
+✔ AG Grid
+
+✔ Angular Material
+
+✔ React + TypeScript
+
+✔ Responsive Design
+
+✔ REST API Integration
+
+---
+
+# 🌟 Featured Skills
+
+| Frontend | Tools | Others |
+|----------|------|--------|
+| Angular | Git | REST API |
+| React | GitHub | RxJS |
+| TypeScript | VS Code | Angular Material |
+| JavaScript | Postman | AG Grid |
+| HTML5 | npm | Responsive UI |
+| SCSS | Figma | Standalone Components |
+
+---
+
+# 💡 Fun Facts
+
+✨ I enjoy turning complex UI designs into clean, reusable components.
+
+🚀 I believe consistency beats intensity—writing better code every day matters more than writing a lot at once.
+
+🎯 My favorite part of development is solving UI challenges and improving user experience.
+
+☕ Coffee, music, and a clean code editor are my ideal productivity setup.
+
+🌙 Late-night debugging often leads to my best solutions.
+
+---
+
+# 🌐 Connect with Me
+
+<p align="center">
+
+<a href="mailto:sarsamkarakshay@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://github.com/Akshaysarsamkar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<!-- Replace with your LinkedIn -->
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
 ---
 
-<p align="center">Thanks for visiting my profile!<br/>Let's keep learning, coding, and building amazing things 🚀</p>
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+"Great software is built one thoughtful commit at a time."
+
+</h3>
